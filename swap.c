@@ -6,7 +6,7 @@ int main() {
       printf("Enter second number: ");
       scanf("%lf", &second);
 
-      // Value of first is assigned to temp
+      // Value of first = temp
       temp = first;
 
       // Value of second is assigned to first
